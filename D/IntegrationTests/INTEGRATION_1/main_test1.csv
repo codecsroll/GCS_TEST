@@ -1,9 +1,0 @@
-CodeScroll Unit Tester(Controller Tester) Test Data
-test name:main_test1,""
-,<input>,argc,argv[0],<expect>,returnVar,<output>,returnVar
-1,"","-1"," ",,"",,"35127320"
-2,"","2"," ",,,,
-3,"","0"," ",,"",,"35455000"
-4,"","1"," ",,"",,"34668568"
-5,"","-2147483648"," ",,,,
-6,"","2147483647"," ",,,,
