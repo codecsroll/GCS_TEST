@@ -1,0 +1,6 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:PopPrntPrintFile_test0,""
+,<input>,pstrTitleName_mem[0],<expect>,<output>
+1,"","0",,
+2,"","65535",,
+3,"","1",,
