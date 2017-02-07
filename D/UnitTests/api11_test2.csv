@@ -1,8 +1,0 @@
-CodeScroll Unit Tester(Controller Tester) Test Data
-test name:api11_test2,""
-,<input>,a,b,c,<expect>,returnVar,<output>,returnVar
-1,"","-2147483648","-2147483648","-1",,,,
-2,"","1","-1","0",,,,
-3,"","0","2147483647","-2147483648",,,,
-4,"","-1","0","2147483647",,,,
-5,"","2147483647","1","1",,,,
