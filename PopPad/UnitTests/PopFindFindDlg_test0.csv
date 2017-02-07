@@ -1,6 +1,0 @@
-CodeScroll Unit Tester(Controller Tester) Test Data
-test name:PopFindFindDlg_test0,""
-,<input>,szFindText[0],<expect>,<output>
-1,"","1",,
-2,"","65535",,
-3,"","0",,

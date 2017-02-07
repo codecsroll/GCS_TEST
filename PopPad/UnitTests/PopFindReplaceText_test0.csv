@@ -1,8 +1,0 @@
-CodeScroll Unit Tester(Controller Tester) Test Data
-test name:PopFindReplaceText_test0,""
-,<input>,pfr0_lpstrReplaceWith_mem[0],piSearchOffset_mem[0],<expect>,<output>
-1,"","0","0",,
-2,"","65535","1",,
-3,"","1","2147483647",,
-4,"","0","-2147483648",,
-5,"","1","-1",,
