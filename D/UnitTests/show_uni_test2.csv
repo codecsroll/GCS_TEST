@@ -1,0 +1,6 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:show_uni_test2,""
+,<input>,a[0].a,e2[0],<expect>,<output>
+1,"","Park(2)"," ",,
+2,"","Kim(0)"," ",,
+3,"","Lee(1)"," ",,
