@@ -1,0 +1,9 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:gzdirect_test0,""
+,<input>,file[0].have,<expect>,returnVar,<output>,returnVar
+1,"","0",,"",,"12713660"
+2,"","7246",,"",,"12713660"
+3,"","1",,"",,"12713660"
+4,"","4294967295",,"",,"12713660"
+5,"","7247",,"",,"12713660"
+6,"","7248",,"",,"12713660"

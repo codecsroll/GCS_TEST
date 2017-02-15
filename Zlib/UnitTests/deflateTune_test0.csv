@@ -1,0 +1,8 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:deflateTune_test0,""
+,<input>,good_length,max_chain,max_lazy,nice_length,<expect>,returnVar,<output>,returnVar
+1,"","2147483647","1","0","0",,"",,"0"
+2,"","0","-2147483648","-2147483648","-2147483648",,"",,"0"
+3,"","-2147483648","-1","1","-1",,"",,"0"
+4,"","1","2147483647","2147483647","2147483647",,"",,"0"
+5,"","-1","0","-1","1",,"",,"0"

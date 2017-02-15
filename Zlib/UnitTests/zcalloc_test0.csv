@@ -1,0 +1,6 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:zcalloc_test0,""
+,<input>,items,size,<expect>,<output>
+1,"","4294967295","1",,
+2,"","0","0",,
+3,"","1","4294967295",,

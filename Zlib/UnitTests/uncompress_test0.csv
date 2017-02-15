@@ -1,0 +1,8 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:uncompress_test0,""
+,<input>,dest_mem[0],destLen_mem[0],source_mem[0],sourceLen,<expect>,returnVar,<output>,returnVar
+1,"","1","0","1","4294967295",,"",,"-3"
+2,"","3","4294967295","3","1",,"",,"-3"
+3,"","2","3","2","2",,"",,"-3"
+4,"","255","1","255","0",,"",,"-3"
+5,"","0","2","0","3",,"",,"-3"

@@ -1,0 +1,8 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:zError_test0,""
+,<input>,err,<expect>,returnVar[0],<output>,returnVar[0]
+1,"","1",,"",,"115"
+2,"","-2147483648",,"",,"0"
+3,"","2147483647",,"",,"102"
+4,"","0",,"",,"0"
+5,"","-1",,"",,"102"

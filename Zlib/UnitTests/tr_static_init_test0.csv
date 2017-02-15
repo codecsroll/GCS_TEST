@@ -1,0 +1,4 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:tr_static_init_test0,""
+,<input>,<expect>,<output>
+1,"",,

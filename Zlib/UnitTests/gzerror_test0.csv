@@ -1,0 +1,14 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:gzerror_test0,""
+,<input>,errnum_mem[0],<expect>,returnVar[0],<output>,returnVar[0]
+1,"","31152",,,,
+2,"","7248",,,,
+3,"","1",,,,
+4,"","31153",,,,
+5,"","0",,,,
+6,"","-1",,,,
+7,"","7246",,,,
+8,"","7247",,,,
+9,"","2147483647",,,,
+10,"","31154",,,,
+11,"","-2147483648",,,,

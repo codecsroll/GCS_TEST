@@ -1,0 +1,8 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:gz_decomp_test0,""
+,<input>,state_mem[0].strm.avail_in,state_mem[0].strm.avail_out,state_mem[0].strm.msg,state_mem[0].x.have,state_mem0_strm_next_out_mem[0],<expect>,returnVar,<output>,returnVar
+1,"","2","3"," ","4294967295","0",,,,
+2,"","4294967295","0"," ","0","2",,,,
+3,"","1","4294967295"," ","3","1",,,,
+4,"","0","1"," ","1","255",,,,
+5,"","3","2"," ","2","3",,,,

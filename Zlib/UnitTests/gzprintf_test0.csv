@@ -1,0 +1,4 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:gzprintf_test0,""
+,<input>,format,<expect>,returnVar,<output>,returnVar
+1,""," ",,"",,"0"

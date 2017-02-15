@@ -1,0 +1,11 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:inflateInit2__test0,""
+,<input>,stream_size,version,windowBits,<expect>,returnVar,<output>,returnVar
+1,"","56"," ","1",,"",,"-6"
+2,"","2147483647"," ","-2147483648",,"",,"-6"
+3,"","0"," ","56",,"",,"-6"
+4,"","55"," ","57",,"",,"-6"
+5,"","1"," ","2147483647",,"",,"-6"
+6,"","-1"," ","0",,"",,"-6"
+7,"","-2147483648"," ","-1",,"",,"-6"
+8,"","57"," ","55",,"",,"-6"
