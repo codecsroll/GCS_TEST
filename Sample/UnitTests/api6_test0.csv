@@ -1,8 +1,8 @@
 CodeScroll Unit Tester(Controller Tester) Test Data
 test name:api6_test0,""
 ,<input>,a_mem[0],<expect>,<output>
-1,"","3.40282E+38",,
+1,"","0",,
 2,"","1.17549E-38",,
-3,"","0",,
-4,"","-1.17549E-38",,
-5,"","-3.40282E+38",,
+3,"","-1.17549E-38",,
+4,"","-3.40282E+38",,
+5,"","3.40282E+38",,
