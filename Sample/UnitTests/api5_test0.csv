@@ -1,0 +1,12 @@
+CodeScroll Unit Tester(Controller Tester) Test Data
+test name:api5_test0,""
+,<input>,a[0],b[0][0][0][0],<expect>,returnVar,<output>,returnVar
+1,""," ","2147483647",,,,
+2,""," ","-2147483648",,,,
+3,""," ","2",,,,
+4,""," ","5",,,,
+5,""," ","-1",,,,
+6,""," ","3",,,,
+7,""," ","4",,,,
+8,""," ","1",,,,
+9,""," ","0",,,,
