@@ -1,7 +1,7 @@
 CodeScroll Unit Tester(Controller Tester) Test Data
 test name:api2_test0,""
 ,<input>,a,b,e1[0],e2[0],e3[0],<expect>,returnVar,<output>,returnVar
-1,"","White(1)","Kim(0)"," "," "," ",,"",,"1"
-2,"","Black(4)","Park(2)"," "," "," ",,"",,"0"
-3,"","Gray(7)","Kim(0)"," "," "," ",,"",,"1"
-4,"","Blue(8)","Lee(1)"," "," "," ",,"",,"1"
+1,"","Blue(8)","Lee(1)"," "," "," ",,,,
+2,"","Black(4)","Kim(0)"," "," "," ",,,,
+3,"","Gray(7)","Park(2)"," "," "," ",,,,
+4,"","White(1)","Kim(0)"," "," "," ",,,,

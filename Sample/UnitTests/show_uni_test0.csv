@@ -1,6 +1,6 @@
 CodeScroll Unit Tester(Controller Tester) Test Data
 test name:show_uni_test0,""
 ,<input>,a[0].a,e2[0],<expect>,<output>
-1,"","Kim(0)"," ",,
-2,"","Lee(1)"," ",,
+1,"","Lee(1)"," ",,
+2,"","Kim(0)"," ",,
 3,"","Park(2)"," ",,
